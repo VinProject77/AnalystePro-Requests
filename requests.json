@@ -7,5 +7,11 @@
     },
     {
         "ticker": "PTPXE"
+    },
+    {
+        "ticker": "JPM"
+    },
+    {
+        "ticker": "NVDA"
     }
 ]
