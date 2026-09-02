@@ -19,5 +19,11 @@
     },
     {
         "ticker": "AMZN"
+    },
+    {
+        "ticker": "STLAP"
+    },
+    {
+        "ticker": "PTPXE"
     }
 ]
