@@ -16,5 +16,11 @@
     },
     {
         "ticker": "NVDA"
+    },
+    {
+        "ticker": "AMZN"
+    },
+    {
+        "ticker": "STLAP"
     }
 ]
