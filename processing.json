@@ -3,9 +3,6 @@
         "ticker": "RKLB"
     },
     {
-        "ticker": "RKLB"
-    },
-    {
         "ticker": "PTPXE"
     },
     {
@@ -15,15 +12,9 @@
         "ticker": "NVDA"
     },
     {
-        "ticker": "NVDA"
-    },
-    {
         "ticker": "AMZN"
     },
     {
         "ticker": "STLAP"
-    },
-    {
-        "ticker": "PTPXE"
     }
 ]
